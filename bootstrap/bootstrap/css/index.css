@@ -1,0 +1,70 @@
+.bg{
+	background:#32a7b8 !important;
+	color:#fff !important;
+	border:none !important;
+}
+.fix{
+	position:fixed;
+}
+.color{
+
+	color:#fff !important;
+}
+.siz{
+	font-size:80px;
+	font-weight:bold;
+}
+.hovline .hov:hover{
+	cursor:pointer;
+	text-decoration: 2px solid #fff;
+
+}
+.bgimg{
+	position:relative;
+	background: url(../images/bg2.png) no-repeat center bottom;
+}
+
+.dis{
+	margin-top:50px;
+}
+
+.word{
+	font-size:50px;
+	font-weight:bold;
+}
+.word2{
+	font-size:20px;
+}
+.line{
+	border:1px solid #32a7b8;
+	width:196px;
+	height:1px;
+	margin:30px auto;
+}
+.box .line2{
+	border:2px solid #32a7b8;
+	width:180px;
+	height:1px;
+	margin:0 auto;
+}
+
+.text2{
+	font-size: 25px
+}
+.cen{
+	height:150px;
+}
+
+.text4{
+	line-height:60px;
+}
+.bg2{
+  background:#191e2b;
+  margin:0 auto;
+}
+.siz-comm{
+	font-size:20px;
+}
+.b{
+	color:#32a7b8 ;
+}
