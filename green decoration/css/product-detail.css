@@ -1,0 +1,499 @@
+/*产品详情页样式*/
+
+.nav .location span{
+
+	font-size:12px;
+	letter-spacing: 2px;
+	line-height: 28px;
+	padding-top:20px;
+}
+
+.location .detail{
+
+	color:#F0883F;
+}
+
+.content .bold-line{
+
+	height:10px;
+	background:#166466;
+}
+
+/*价格明细样式*/
+
+.price{
+
+	overflow: hidden;
+}
+
+.price .price-wrap{
+
+	width:900px;
+	margin:0 auto;
+	overflow: hidden;
+}
+
+
+
+.img-detail{
+    width:380px;
+	position: relative;
+	overflow: hidden;
+	float:left;
+
+}
+
+.img-detail .big-img img{
+
+	width:100%;
+	height:auto;
+	display: block;
+}
+
+.img-detail .gelin img{
+
+	width:160px;
+	height:50px;
+	position:absolute;
+	top:0;
+	left:0;
+	filter: alpha(opacity:50);
+	opacity: 0.5;
+	
+}
+
+.img-detail .small-img{
+
+	float:left;
+	margin:10px 0;
+	
+
+}
+
+.img-detail .small-img .first{
+
+	filter: alpha(opacity:70);
+	opacity: 0.7;
+}
+
+.price-wrap .product{
+
+	font-size:12px;
+	float:left;
+	margin-left:30px;
+	width:472px;
+}
+
+.price-wrap .product p{
+
+	padding-top:10px;
+}
+
+.product .describe{
+
+	font-size:13px;
+	color:#508A8C;
+	
+}
+
+.product .describe i{
+	width:300px;
+	border-top:1px solid #BEBEBE;
+	padding-top:5px;
+}
+
+.product .amount-price{
+
+	color:#E02F1A;
+	background:url("../images/square_03.png") no-repeat left center;
+	padding-left:12px;
+	letter-spacing: 3px;
+	font-size:13px;
+}
+
+.product .amount-price span{
+
+	color:#000;
+}
+
+.product .feature{
+
+	background: #EFDFD0;
+	width:472px;
+	margin-top:25px;
+	color:#186366;
+	padding-bottom: 10px;
+}
+
+.product .feature .feature-detail{
+
+	text-indent:3em;
+	letter-spacing: 1px;
+	padding-top:0;
+}
+
+
+.product .tel{
+
+	margin:30px 0 20px;
+	font-size:18px;
+}
+
+.product .icon{
+
+	float:left;
+	width:115px;
+	background: #F2F3F3;
+	padding:4px 3px 1px;
+	
+}
+
+.price .step-nav{
+    height:25px;
+    border:1px solid #333;
+
+}
+
+.step-nav .nav-wrap{
+
+    width:900px;
+	overflow:hidden;
+	margin:0 auto;
+}
+.step-nav .nav-wrap ul{
+
+	float:left;
+	overflow: hidden;
+	padding-left:110px;
+	line-height:25px;
+
+}
+
+.nav-wrap ul li{
+
+	float:left;
+	margin-right:30px;
+
+}
+
+.nav-wrap ul li a{
+
+	color:#000;
+}
+
+.nav-wrap ul li:first-child{
+
+	width:180px;
+	background:#E02E19;
+	text-align: center;
+	border-left:1px solid #333;
+	border-right:1px solid #333;
+	margin-right:60px;
+}
+
+.nav-wrap ul li:first-child a{
+
+	color:#fff;
+}
+
+.nav-wrap ul .index a{
+
+	color:#1F6764;
+}
+
+.price .product-index{
+
+	width:900px;
+	overflow: hidden;
+	margin:0 auto;
+	background: #EDEDED;
+	font-size:12px;
+}
+
+.product-index ul{
+
+	float:left;
+	padding:40px 50px;
+	margin-left:40px;
+	color:#333;
+	font-family: "微软雅黑"；
+
+}
+
+.product-index ul li{
+
+	line-height:20px;
+
+}
+
+.price .feature-img{
+
+	width:900px;
+	overflow: hidden;
+	margin:0 auto;
+	font-size:12px;
+	letter-spacing: 3px;
+	font-family: "微软雅黑"
+
+}
+
+.price .feature-img .wrap01{
+
+	float:left;
+	overflow: hidden;
+	width:500px;
+}
+
+.feature-img .img01{
+
+    width:400px;
+    overflow: hidden;
+    margin-top:20px;
+    float:left;
+
+}
+
+.feature-img .img01 .img-f{
+
+	float:left;
+	width:150px;
+}
+
+.img01 .img-f img{
+
+	width:100%;
+	height:auto;
+	display: block;
+}
+
+.img01 .word-f{
+
+	float:left;
+	margin:50px 0 0 20px;
+
+}
+
+.img01 .word-f p{
+
+	line-height: 18px;
+
+}
+
+
+
+.feature-img .img02{
+
+	padding-left:30px;
+	margin-top:0;
+}
+
+.feature-img .img02 .img-f01{
+
+	float:right;
+}
+
+.feature-img .img02 .word-f01{
+
+	float:left;
+	margin:60px 0 0 50px;
+}
+
+.feature-img .img-right{
+
+	float:right;
+	width:400px;
+	margin-top:30px;
+}
+
+.feature-img .img-right img{
+
+	width:100%;
+	height:auto;
+	display: block;
+}
+
+.product-sort{
+
+	width:900px;
+	margin:40px auto;
+}
+
+.product-sort div {
+
+
+	position: relative;
+}
+
+.product-sort div img{
+
+	width:100%;
+	height:auto;
+	display: block;
+}
+
+.product-sort div .boxcomm{
+
+	position:absolute;
+	bottom:0;
+	right:0;
+	width:180px;
+	background: #2F4B7D;
+	line-height: 60px;
+	text-align: center;
+	color:#FFFFF8;
+	letter-spacing: 5px;
+}
+
+.product-sort div .box2{
+
+	background: #3E6B8C;
+}
+
+.product-sort div .box3{
+
+	background: #BD5230;
+}
+
+.price .install{
+
+	width: 900px;
+	margin:0 auto;
+	overflow: hidden;
+}
+
+.install h4{
+
+	width:900px;
+    text-align:center;
+    line-height:40px;
+    letter-spacing: 3px;
+
+}
+
+.install .ins-left{
+
+	float:left;
+    width:330px;
+    margin-top:30px;
+}
+
+.install .ways{
+
+    overflow: hidden;
+}
+
+.install .ways .waycomm{
+
+	
+	background:#A5BAC9;
+	font-size:12px;
+	height:60px;
+	color:#fff;
+	letter-spacing: 3px;
+	position: relative;
+}
+
+.ways .waycomm p{
+
+	
+	text-align:left;
+
+	padding:15px 15px 15px 40px;
+
+}
+
+.ways .waycomm span{
+
+      position: absolute;
+      top:0;
+      left:0;
+      width:25px;
+      background:#176365;
+      text-align: center;
+      line-height: 25px;
+}
+
+.install .ways .way2{
+
+      background:#B7C7D3;
+}
+
+.install .ways .way3{
+
+	 background: #A5BAC9;
+}
+
+.install .ways .way4{
+
+	 background: #7A98AC;
+}
+
+.install .ways .way5{
+
+	 background: #5B7E96;
+}
+
+.install .ways .way6{
+
+	 background: #4E738A;
+	 height:78px;
+}
+
+.install .ins-right{
+
+	float:right;
+	width:540px;
+    margin-top:30px;
+}
+
+.ins-right .rightcomm{
+
+	width:250px;
+	height:70px;
+	position: relative;
+	float:left;
+	margin-bottom:50px;
+	margin-left:20px;
+}
+
+.ins-right .rightcomm img{
+
+	width:100%;
+	height: auto;
+	display: block;
+}
+
+.ins-right .rightcomm span{
+
+	position: absolute;
+	bottom:0;
+	right:10px;
+	width:25px;
+	line-height: 25px;
+    background:#176365;
+    text-align: center;
+    border-radius: 25px;
+    color:#fff;
+
+}
+
+.ins-right .imgmove{
+
+	padding-bottom:60px;
+}
+
+.ins-right .img3{
+
+	padding-top:30px;
+	padding-bottom:30px;
+}
+
+.footerchange{
+
+	margin-top:-20px;
+}
+
+
+
+
+

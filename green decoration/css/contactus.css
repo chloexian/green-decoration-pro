@@ -1,0 +1,139 @@
+/*联系我们样式*/
+
+.content .banner4{
+
+	margin-top:20px;
+}
+
+.contact-main{
+
+	background: url("../images/back.png") no-repeat left center;
+	overflow: hidden;
+}
+
+.contact-main .img-line{
+
+	margin-top:30px;
+}
+.contact-main .img-line img{
+
+     width:100%;
+     height:auto;
+     display: block;
+}
+
+.contact-main .map .map-wrap{
+
+	width:900px;
+	margin:0 auto;
+	overflow: hidden;
+}
+
+.map-wrap .main-map{
+
+	width:900px;
+}
+
+.map-wrap .main-map img{
+
+	width:100%;
+	height:auto;
+	display: block;
+}
+
+.contact-main .info{
+
+	overflow: hidden;
+	margin:30px 0;
+}
+
+.info .name{
+
+	width:250px;
+	position: relative;
+	height:50px;
+	float:left;
+	margin-right:80px;
+}
+
+.name i{
+
+      position: absolute;
+      top:0;
+      left:0;
+      width:40px;
+}
+
+.name i img{
+
+	width:100%;
+	height:auto;
+	display: block;
+}
+
+
+
+.info .name p{
+
+   font-size:14px;
+   padding-left:50px;
+
+}
+
+.info .tel{
+
+	width:160px;
+}
+
+.map-wrap .insert-info{
+
+	width:420px;
+	overflow: hidden;
+	float:left;
+	margin-right:30px;
+}
+
+.insert-info .insert{
+
+	width:400px;
+	height:35px;
+	border:1px solid #BFBFBF;
+	margin-bottom:20px;
+	padding-left:5px;
+
+}
+
+.map-wrap .message{
+
+	resize: none;
+	overflow: hidden;
+}
+
+.map-wrap .message textarea{
+
+     padding-top:10px;
+     padding-left:10px;
+     resize: none;
+
+}
+
+.map-wrap .done{
+
+      padding-bottom: 20px
+}
+.done input{
+
+	width:40px;
+	height:40px;
+	border-radius: 40px;
+	background: #176365;
+	color:#fff;
+	margin-top:25px;
+	margin-bottom:50px;
+}
+
+.footer1{
+
+	margin-top:-60px;
+}
+

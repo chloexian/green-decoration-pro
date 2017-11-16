@@ -1,0 +1,21 @@
+/*重写浏览器样式*/
+html,body,h1,h2,h3,h4,h5,h6,ul,ol,li,input,textarea,p,img{
+	padding:0;
+	border:0;
+	margin:0;
+}
+
+ul,ol{
+	list-style:none;
+}
+
+i,span{
+	display:inline-block;
+}
+input,textarea{
+    outline:none;
+
+}	
+a,a:hover{
+	text-decoration:none;
+	}
